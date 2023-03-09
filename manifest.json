@@ -1,11 +1,19 @@
 {
-    "name": "Covid-19 Stats UK",
+    "name": "docsGPT",
     "version": "1.0.0",
-    "description": "latest covid data of UK",
+    "description": "gpt3 AI built in to Google Docs",
     "manifest_version": 3,
-    "author": "Sampurna Chapagain",
-    "action":{
+    "author": "Cameron Parker",
+    "permissions": [
+        "activeTab",
+        "storage"
+    ],
+    "action": {
         "default_popup": "index.html",
-        "default_title": "Latest Covid Report"
+        "default_title": "docsGPT",
+        "default_icon": {
+            "16": "docs_icon.png",
+            "32": "docs_icon.png"
+        }
     }
 }
