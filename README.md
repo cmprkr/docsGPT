@@ -4,6 +4,9 @@ A Google Apps Script utilizing the GPT-3.5 Turbo model from OpenAI to make essay
 ## How to use
 Installing docsGPT is incredibly easy for single-document use.
 
+## IMPORTANT
+Before the Apps Script is able oto be used, your OpenAI API key must be inserted into the JavaScript where the code says [YOUR_API_KEY_HERE].
+
 ### Installation through Apps Script
 1) Open up the desired Google Document.
 2) Click Extensions > Apps Script
