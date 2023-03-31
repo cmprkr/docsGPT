@@ -1,5 +1,5 @@
 # docsGPT
-A Chrome Extension utilizing the GPT-3 model from OpenAI to make essay writing easier.
+A Google Apps Script utilizing the GPT-3.5 Turbo model from OpenAI to make essay writing easier.
 
 ## How to use
 Installing docsGPT is incredibly easy for single-document use.
