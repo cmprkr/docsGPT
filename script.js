@@ -20,7 +20,7 @@ function onOpen() {
 }
 
 // FIXED VARIABLES. Your API and Model Type
-var apiKey = "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";
+var apiKey = "[YOUR_API_KEY_HERE]";
 var model = "gpt-3.5-turbo";
 // ****END VARIABLES****
 
